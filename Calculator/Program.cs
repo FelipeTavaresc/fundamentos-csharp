@@ -6,7 +6,8 @@ namespace Calculator
     {
         static void Main(string[] args)
         {
-            Sum();
+            //Sum();
+            Subtraction();
         }
 
         static void Sum()
@@ -22,6 +23,23 @@ namespace Calculator
 
             float result = v1 + v2;
             Console.WriteLine($"The result of sum is: {result}");
+            Console.ReadKey();
+        }
+
+        static void Subtraction()
+        {
+            Console.Clear();
+            Console.Write("First value: ");
+            float v1 = float.Parse(Console.ReadLine());
+
+            Console.Write("Second value: ");
+            float v2 = float.Parse(Console.ReadLine());
+
+            Console.WriteLine("");
+
+            float result = v1 - v2;
+            Console.WriteLine($"The result of subtraction is: {result}");
+            Console.ReadKey();
         }
     }
 }
