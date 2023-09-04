@@ -8,7 +8,8 @@ namespace Calculator
         {
             //Sum();
             //Subtraction();
-            Division();
+            //Division();
+            Multiplication();
         }
 
         static void Sum()
@@ -56,6 +57,22 @@ namespace Calculator
 
             float result = v1 / v2;
             Console.WriteLine($"The result of division is: {result}");
+            Console.ReadKey();
+        }
+
+        static void Multiplication()
+        {
+            Console.Clear();
+            Console.Write("First value: ");
+            float v1 = float.Parse(Console.ReadLine());
+
+            Console.Write("Second value: ");
+            float v2 = float.Parse(Console.ReadLine());
+
+            Console.WriteLine("");
+
+            float result = v1 * v2;
+            Console.WriteLine($"The result of multiplication is: {result}");
             Console.ReadKey();
         }
     }
