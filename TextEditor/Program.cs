@@ -21,7 +21,7 @@ namespace TextEditor
             {
                 case 0: Environment.Exit(0); break;
                 case 1: Open(); break;
-                case 2: Close(); break;
+                case 2: Edit(); break;
                 default: Menu(); break;
             }
         }
@@ -31,9 +31,20 @@ namespace TextEditor
 
         }
 
-        static void Close()
+        static void Edit()
         {
+            Console.Clear();
+            Console.WriteLine("Insert your text below (ESC to exit)");
+            Console.WriteLine("----------------------");
+            string text = "";
 
+            do
+            {
+                text += Console.ReadLine();
+                text += Environment.NewLine;
+            }
+            while (Console.ReadKey().Key != ConsoleKey.Escape);
+            Console.Write(text);
         }
     }
 }
