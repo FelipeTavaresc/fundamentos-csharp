@@ -1,0 +1,13 @@
+D:\Personal\DEV\Estudos\fundamentos-csharp\EditorHtml\bin\Debug\netcoreapp3.1\EditorHtml.exe
+D:\Personal\DEV\Estudos\fundamentos-csharp\EditorHtml\bin\Debug\netcoreapp3.1\EditorHtml.deps.json
+D:\Personal\DEV\Estudos\fundamentos-csharp\EditorHtml\bin\Debug\netcoreapp3.1\EditorHtml.runtimeconfig.json
+D:\Personal\DEV\Estudos\fundamentos-csharp\EditorHtml\bin\Debug\netcoreapp3.1\EditorHtml.runtimeconfig.dev.json
+D:\Personal\DEV\Estudos\fundamentos-csharp\EditorHtml\bin\Debug\netcoreapp3.1\EditorHtml.dll
+D:\Personal\DEV\Estudos\fundamentos-csharp\EditorHtml\bin\Debug\netcoreapp3.1\EditorHtml.pdb
+D:\Personal\DEV\Estudos\fundamentos-csharp\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.csprojAssemblyReference.cache
+D:\Personal\DEV\Estudos\fundamentos-csharp\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.AssemblyInfoInputs.cache
+D:\Personal\DEV\Estudos\fundamentos-csharp\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.AssemblyInfo.cs
+D:\Personal\DEV\Estudos\fundamentos-csharp\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.csproj.CoreCompileInputs.cache
+D:\Personal\DEV\Estudos\fundamentos-csharp\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.dll
+D:\Personal\DEV\Estudos\fundamentos-csharp\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.pdb
+D:\Personal\DEV\Estudos\fundamentos-csharp\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.genruntimeconfig.cache

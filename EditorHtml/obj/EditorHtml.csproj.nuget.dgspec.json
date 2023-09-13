@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Personal\\DEV\\Estudos\\fundamentos-csharp\\EditorHtml\\EditorHtml.csproj": {}
+    "D:\\Personal\\DEV\\Estudos\\fundamentos-csharp\\EditorHtml\\EditorHtml.csproj": {}
   },
   "projects": {
-    "d:\\Personal\\DEV\\Estudos\\fundamentos-csharp\\EditorHtml\\EditorHtml.csproj": {
+    "D:\\Personal\\DEV\\Estudos\\fundamentos-csharp\\EditorHtml\\EditorHtml.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Personal\\DEV\\Estudos\\fundamentos-csharp\\EditorHtml\\EditorHtml.csproj",
+        "projectUniqueName": "D:\\Personal\\DEV\\Estudos\\fundamentos-csharp\\EditorHtml\\EditorHtml.csproj",
         "projectName": "EditorHtml",
-        "projectPath": "d:\\Personal\\DEV\\Estudos\\fundamentos-csharp\\EditorHtml\\EditorHtml.csproj",
+        "projectPath": "D:\\Personal\\DEV\\Estudos\\fundamentos-csharp\\EditorHtml\\EditorHtml.csproj",
         "packagesPath": "C:\\Users\\vinis\\.nuget\\packages\\",
-        "outputPath": "d:\\Personal\\DEV\\Estudos\\fundamentos-csharp\\EditorHtml\\obj\\",
+        "outputPath": "D:\\Personal\\DEV\\Estudos\\fundamentos-csharp\\EditorHtml\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
